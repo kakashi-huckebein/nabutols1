@@ -9,4 +9,4 @@ const ninemmenu = (prefix, pushname) => {
 
 }
 
-exports.toinmenu = ninemmenu
+exports.ninemmenu = ninemmenu
